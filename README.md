@@ -45,3 +45,15 @@ When studying privacy networks:
 - Follow local laws  
 
 Responsible learning ensures a safe experience.
+
+## FAQ
+
+### Is Tor illegal?
+Using Tor is legal in most countries, but laws vary. Always follow local regulations.
+
+### Are onion services dangerous?
+They are tools. Safety depends on how responsibly they are used.
+
+### Why learn about privacy networks?
+Understanding privacy technology helps people browse safely and make informed decisions.
+
